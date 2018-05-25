@@ -1,5 +1,5 @@
 ---
-title: Humane Typography in the Digital Age
+title: Khi hơi thở hoá thinh không
 date: "2017-08-19T22:40:32.169Z"
 layout: post
 draft: false
@@ -12,11 +12,11 @@ tags:
 description: "An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts."
 ---
 
-An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.
+📗 “Khi hơi thở hóa thinh không” là cuốn hồi kí được viết bởi Paul Kalanithi – một bác sĩ phẫu thuật não và cũng là một bệnh nhân ung thư phổi giai đoạn cuối. Paul viết cuốn sách này trong những tháng cuối cùng của cuộc đời anh – khi mà anh đang đối mặt trực tiếp với cái chết.
 
-The typography of this industrial age was no longer handcrafted. Mass production and profit became more important. Quantity mattered more than the quality. The books and printed works in general lost a part of its humanity. The typefaces were not produced by craftsmen anymore. It was the machines printing and tying the books together now. The craftsmen had to let go of their craft and became a cog in the process. An extension of the industrial machine.
+Anh là một bác sĩ tài năng - một bác sĩ phẫu thuật thần kinh chính tại Stanford sau khi hoàn thành khóa đào tạo lĩnh vực lâm sàng khắt khe nhất. Anh cũng là một nhà khoa học xuất chúng. Đề tài nghiên cứu tiến sĩ về Liệu pháp Gene đã giúp anh giành được giải thưởng nghiên cứu cao nhất trong sự nghiệp.
 
-But the victory of the industrialism didn’t mean that the craftsmen were completely extinct. The two worlds continued to coexist independently. Each recognising the good in the other — the power of industrialism and the humanity of craftsmanship. This was the second transition that would strip typography of a part of its humanity. We have to go 500 years back in time to meet the first one.
+Nhưng còn hơn thế, anh cũng là một nhà văn. Trước khi vào trường y khoa, anh đã có hai tấm văn bằng văn học Anh từ trường Đại học Stanford và đã suy nghĩ nghiêm túc việc theo đuổi nghiệp viết lách.  Cuốn hồi ký này ghi chép lại cuộc đời của anh từ thời trẻ với những sự kiện trong cuộc đời đã đưa anh tới quyết định trở thành bác sĩ phẫu thuật não – một ngành chuyên môn khó và danh giá nhất trong y khoa; cho tới những ngày anh từ một bác sĩ trở thành một bệnh nhân – những ngày anh đi tìm định nghĩa về sự sống và cái chết, và định hình lại ý nghĩa sự tồn tại của anh trên cuộc đời này.  
 
 ## The first transition
 
