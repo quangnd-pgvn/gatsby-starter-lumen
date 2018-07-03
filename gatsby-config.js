@@ -1,26 +1,26 @@
 module.exports = {
   siteMetadata: {
-    url: 'https://lumen.netlify.com',
-    title: 'Blog by Mun',
-    subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    url: 'https://sleepy-newton-e5712b.netlify.com/',
+    title: 'Blog by Booklands',
+    subtitle: '"Bạn không bao giờ có thể đạt được sự hoàn hảo, nhưng bạn có thể tin vào đường tiệm cận của những gì mình không ngừng hướng tới.📚"',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
       {
-        label: 'Articles',
+        label: 'Các bài đánh giá',
         path: '/'
       },
       {
-        label: 'About me',
+        label: 'Về chúng tôi',
         path: '/about/'
       },
       {
-        label: 'Contact me',
+        label: 'Liên hệ',
         path: '/contact/'
       }
     ],
     author: {
-      name: 'Quang Nguyen',
+      name: 'Tặng bạn thứ bạn không biết là mình cần 🌿',
       email: '#',
       telegram: '#',
       twitter: '#',
